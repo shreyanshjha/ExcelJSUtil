@@ -7,5 +7,8 @@
   },
   "author": "Shreyansh Jha",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
 }
